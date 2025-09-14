@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+  <defs>
+    <clipPath id="afterClip" clipPathUnits="objectBoundingBox">
+      <path d="M0,0v1h1C0.45,1,0,0.55,0,0Z" />
+    </clipPath>
+  </defs>
+</svg>
